@@ -1,0 +1,6 @@
+framework module Pods_RapidThesisQ {
+  umbrella header "Pods-RapidThesisQ-umbrella.h"
+
+  export *
+  module * { export * }
+}
